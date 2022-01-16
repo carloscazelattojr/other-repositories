@@ -18,6 +18,8 @@ Lista de repositórios,videos/cursos e materiais direcionados para Java/Springm 
 
 [wuyouzhuguli](https://github.com/wuyouzhuguli/SpringAll) `Spring-examples`
 
+[jszlenk](https://github.com/jszlenk/Rest-Tasks-Application) `Trello` `Java`
+
 
 
 
