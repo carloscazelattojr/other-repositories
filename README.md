@@ -31,6 +31,10 @@ Lista de repositórios,videos/cursos e materiais direcionados para Java/Springm 
 
 [Java Guides](https://www.youtube.com/c/javaguides) 
 
+[Spring Security | FULL COURSE](https://www.youtube.com/watch?v=her_7pa0vrg) 
+
+
+
 
 # other
 [10 Free Spring Boot Courses and Tutorials for Java Developers](https://medium.com/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) 
